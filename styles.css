@@ -1,0 +1,47 @@
+/*by Daniyar Tengelbay*/
+h1 { color: green;
+	font-family:monospace;
+   text-align: center;
+   margin-right: 250px;
+   margin-left: 250px;
+   opacity: 0.5;
+	}
+h3 { color: Blue;
+	font-family:Arial;
+	}
+body {
+    background-color: #FFFFFF;
+}
+
+img.Ronnie { float: left;
+	  width:250px;
+	  height:200px;
+	  }
+img.Spain{float: right;
+          width:250px;
+	  height:200px;
+	  }
+img.Bruce {
+		width:300px;
+		height:350px;
+		}
+img.Will {
+		width:300px;
+		height:350px;
+		}
+img.Julia {
+		width:300px;
+		height:350px;
+		}
+p { color: #6633CC;
+	font-family:times new roman;
+	font-size: 20px;
+    }
+
+ul.hobby {font-family:times new roman;
+	font-size: 20px;
+	color:#6633CC;}
+
+li:hover {
+	color: black;
+}
